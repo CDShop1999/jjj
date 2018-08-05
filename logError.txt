@@ -1,0 +1,214 @@
+
+[ Selasa, 12 - 06 - 2018 | 22:35:17 ] Invalid mids
+[ Senin, 02 - 07 - 2018 | 00:51:32 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 20:51:45 ] 'userAgent'
+[ Senin, 02 - 07 - 2018 | 20:51:48 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 20:55:20 ] 'userAgent'
+[ Senin, 02 - 07 - 2018 | 20:59:17 ] name 'clinet' is not defined
+[ Senin, 02 - 07 - 2018 | 21:01:09 ] name 'clinet' is not defined
+[ Senin, 02 - 07 - 2018 | 21:02:13 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:02:53 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:03:34 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:05:36 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:07:06 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:08:00 ] 'result'
+[ Senin, 02 - 07 - 2018 | 21:08:03 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:08:40 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:10:27 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 02 - 07 - 2018 | 21:12:03 ] name 'mini' is not defined
+[ Senin, 02 - 07 - 2018 | 21:12:04 ] name 'mini' is not defined
+[ Senin, 02 - 07 - 2018 | 21:12:37 ] name 'mini' is not defined
+[ Senin, 02 - 07 - 2018 | 21:12:46 ] name 'mini' is not defined
+[ Senin, 09 - 07 - 2018 | 18:59:01 ] must be str, not NoneType
+[ Senin, 09 - 07 - 2018 | 18:59:27 ] must be str, not NoneType
+[ Senin, 09 - 07 - 2018 | 20:00:37 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Selasa, 10 - 07 - 2018 | 07:33:10 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Selasa, 10 - 07 - 2018 | 19:24:18 ] name 'admin' is not defined
+[ Selasa, 10 - 07 - 2018 | 19:24:28 ] name 'admin' is not defined
+[ Selasa, 10 - 07 - 2018 | 19:24:38 ] name 'admin' is not defined
+[ Rabu, 11 - 07 - 2018 | 04:19:50 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Kamis, 12 - 07 - 2018 | 06:37:07 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Senin, 16 - 07 - 2018 | 00:36:32 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:36:54 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:03 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:04 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:04 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:17 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:26 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:37:28 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:38:01 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:38:09 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:38:41 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:39:27 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:39:31 ] 'Message' object has no attribute 'from_'
+[ Senin, 16 - 07 - 2018 | 00:39:32 ] 'Message' object has no attribute 'from_'
+[ Senin, 16 - 07 - 2018 | 00:39:41 ] 'NoneType' object has no attribute 'lower'
+[ Senin, 16 - 07 - 2018 | 00:56:49 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:50:52 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:52:03 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:53:58 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:54:33 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:57:31 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:57:31 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:57:33 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:57:33 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 01:58:44 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 02:00:18 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 02:02:04 ] 'NoneType' object has no attribute 'lower'
+[ Selasa, 17 - 07 - 2018 | 02:12:48 ] 'Message' object has no attribute 'from_'
+[ Selasa, 17 - 07 - 2018 | 08:04:27 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:04:37 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:04:39 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:04:41 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:07 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:10 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:12 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:14 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:25 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:05:29 ] local variable 'cmd' referenced before assignment
+[ Selasa, 17 - 07 - 2018 | 08:07:35 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:07:36 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:07:37 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:07:40 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:22 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:23 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:23 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:25 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:28 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:29 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 08:08:29 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 17:32:34 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 17:32:34 ] 'Message' object has no attribute 'txet'
+[ Selasa, 17 - 07 - 2018 | 17:32:39 ] 'Message' object has no attribute 'txet'
+[ Rabu, 18 - 07 - 2018 | 16:47:17 ] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[ Rabu, 18 - 07 - 2018 | 16:49:40 ] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[ Rabu, 18 - 07 - 2018 | 19:22:23 ] local variable 'sender' referenced before assignment
+[ Rabu, 18 - 07 - 2018 | 19:23:02 ] local variable 'sender' referenced before assignment
+[ Kamis, 19 - 07 - 2018 | 20:33:57 ] local variable 'sender' referenced before assignment
+[ Kamis, 19 - 07 - 2018 | 20:35:05 ] local variable 'sender' referenced before assignment
+[ Jumat, 20 - 07 - 2018 | 00:47:09 ] local variable 'sender' referenced before assignment
+[ Minggu, 22 - 07 - 2018 | 16:58:02 ] local variable 'sender' referenced before assignment
+[ Minggu, 22 - 07 - 2018 | 16:58:34 ] local variable 'sender' referenced before assignment
+[ Minggu, 22 - 07 - 2018 | 18:10:52 ] local variable 'sender' referenced before assignment
+[ Rabu, 25 - 07 - 2018 | 17:11:19 ] name 'Family' is not defined
+[ Rabu, 25 - 07 - 2018 | 17:11:23 ] name 'Family' is not defined
+[ Rabu, 25 - 07 - 2018 | 17:11:51 ] name 'Family' is not defined
+[ Rabu, 25 - 07 - 2018 | 17:12:13 ] name 'Family' is not defined
+[ Rabu, 25 - 07 - 2018 | 18:24:06 ] name 'Family' is not defined
+[ Jumat, 27 - 07 - 2018 | 04:31:56 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 04:32:45 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:16:40 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:16:41 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:16:41 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:16:41 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:16:41 ] name 'wait' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:29 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:41 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:27:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 06:29:39 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:37 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:41 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:42 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:42 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:52 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:37:57 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:01 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:02 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:10 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:10 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:10 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:12 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:16 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:22 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:23 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:27 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:29 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:30 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:32 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:33 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:36 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:37 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:39 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:40 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:42 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:43 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:43 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:44 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:45 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:49 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:51 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:38:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:02 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:04 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:05 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:07 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:09 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:14 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:39:16 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:19 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:19 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:19 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:19 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:19 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:20 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:25 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:29 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:31 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:34 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:38 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:46 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:51 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:53 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:54 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:50:56 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:01 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:02 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:07 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:08 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:10 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:11 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:15 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:15 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:15 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:15 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:15 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:17 ] name 'respRemember' is not defined
+[ Jumat, 27 - 07 - 2018 | 09:51:17 ] name 'respRemember' is not defined
+[ Jumat, 03 - 08 - 2018 | 22:21:34 ] must be str, not NoneType
+[ Jumat, 03 - 08 - 2018 | 22:22:24 ] must be str, not NoneType
+[ Jumat, 03 - 08 - 2018 | 22:25:28 ] must be str, not NoneType
+[ Jumat, 03 - 08 - 2018 | 22:25:56 ] must be str, not NoneType
